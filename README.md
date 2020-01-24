@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi everyone, I love playing football
+Am an easy going person, My nickname is dhara_boss
